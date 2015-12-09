@@ -2,7 +2,10 @@ Reflections
 --------------------
 Lesson 1:
 
-"How did viewing a diff between two versions help you spot the bug?''
-It highlighted the changes automatically, so I didn't have to maually scroll through the files.
-Because the areas that were changed were only a few lines of code, I only had to focus on a few small sections.
+How did viewing a diff between two versions help you spot the bug?'
+- It highlighted the changes automatically, so I didn't have to maually scroll through the files.
+- Because the areas that were changed were only a few lines of code, I only had to focus on a few small sections.
 
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- New bugs would be easier to track down because I could move back to a point before the bug was introduced and see what changes were made after.
+- I would have the security of knowing that a working version of the project could still be accessed while experimenting with new code.
