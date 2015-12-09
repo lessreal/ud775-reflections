@@ -1,0 +1,8 @@
+Reflections
+--------------------
+Lesson 1:
+
+"How did viewing a diff between two versions help you spot the bug?''
+It highlighted the changes automatically, so I didn't have to maually scroll through the files.
+Because the areas that were changed were only a few lines of code, I only had to focus on a few small sections.
+
