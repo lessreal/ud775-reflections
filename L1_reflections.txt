@@ -13,3 +13,7 @@ How could having easy access to the entire history of a file make you a more eff
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 - The manual commit allows me to choose a logical point to save a project, so each version is more likely to be working.
 - It results in fewer unnecessary versions being saved, so each version will have some meaningful difference from the last.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- Git is designed for projects with multiple interrelated pieces of code that may be contained in different files, so it is important to keep track of all of them together.
+- Other systems that are designed for standalone documents, which do not typically interact with one another, do not need to keep track of all files at once.
