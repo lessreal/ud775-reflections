@@ -9,3 +9,7 @@ How did viewing a diff between two versions help you spot the bug?'
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 - New bugs would be easier to track down because I could move back to a point before the bug was introduced and see what changes were made after.
 - I would have the security of knowing that a working version of the project could still be accessed while experimenting with new code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- The manual commit allows me to choose a logical point to save a project, so each version is more likely to be working.
+- It results in fewer unnecessary versions being saved, so each version will have some meaningful difference from the last.
