@@ -5,3 +5,9 @@ Lesson 2:
 What happens when you initialize a repository? Why do you need to do it?
 - Git creates a hidden directory to store the repository, including data on all commits in the project.
 - Initializing a repository is necessary because otherwise git will be unable to track any changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The staging area is a temporary area to hold files with changes that are not yet part of a commit.
+- Changes to files in the working directory do not affect files in the staging area until those files are manually added with git add.
+- Once a git commit is applied, all files in the staging area become part of a new commit in the repository.
+- This approach allows for some experimentation with files in the working directory that you may not necessarily want to add to a commit.
