@@ -1,0 +1,7 @@
+Reflections
+--------------------
+Lesson 2:
+
+What happens when you initialize a repository? Why do you need to do it?
+- Git creates a hidden directory to store the repository, including data on all commits in the project.
+- Initializing a repository is necessary because otherwise git will be unable to track any changes.
