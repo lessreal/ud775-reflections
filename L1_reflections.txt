@@ -25,3 +25,8 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 - If I end up breaking something, version control makes it easy to return to a point where the code was working, so there is less risk involved.
 - Being able to compare the current commit to older versions can make it easier to spot where bugs were introduced, so it is easier to fix them.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- I have some personal projects that I plan to develop into a web portfolio.
+- I plan to take a number of programming and web development MOOCs, and this will help me organize my code for assignments and projects in those.
+- I would like to contribute to other people's projects.
