@@ -27,3 +27,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 - Starting from the most recent common ancestor, all changes from both branches are added into a new commit.
 - The merged commit inherits changes from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Pro: No scrolling through the code to look for small differences between versions.
+- Con: There is no guarantee that the merged code will work, if the changes are incompatible.
