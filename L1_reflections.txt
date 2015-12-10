@@ -3,7 +3,7 @@ Reflections
 Lesson 1:
 
 How did viewing a diff between two versions help you spot the bug?
-- It highlighted the changes automatically, so I didn't have to maually scroll through the files.
+- It highlighted the changes automatically, so I didn't have to manually scroll through the files.
 - Because the areas that were changed were only a few lines of code, I only had to focus on a few small sections.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
@@ -21,3 +21,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 - git log shows a list of all commits to a project, including commit ids, authors, dates and messages describing the changes for each commit.
 - git diff [id1] [id2] shows the difference between two commits based on their ids.
+
+How might using version control make you more confident to make changes that could break something?
+- If I end up breaking something, version control makes it easy to return to a point where the code was working, so there is less risk involved.
+- Being able to compare the current commit to older versions can make it easier to spot where bugs were introduced, so it is easier to fix them.
